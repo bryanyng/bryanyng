@@ -12,17 +12,17 @@ I'm a software developer. I enjoy listening to problems and producing software s
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-![Dynamics365](https://img.shields.io/badge/Dynamics365-002050?logo=dynamics365&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white&style=flat)
+![Dynamics365](https://img.shields.io/badge/Dynamics365-002050?logo=dynamics-365&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?logo=jquery&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 
 ### These are the Languages/Tools I am learning and wish to work with:
 ![React](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=white&style=flat)
-![Nodejs](https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js&logoColor=white&style=flat)
-![Nextjs](https://img.shield.io/badge/NextJS-black?logo=next-dot-js&logoColor=white&style=flat)
+![Nodejs](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat)
+![Nextjs](https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 
 
