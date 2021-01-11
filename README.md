@@ -1,7 +1,7 @@
 ## Hi there, I'm Bryan :wave:
 I'm a software developer. I enjoy listening to problems and producing software solutions! 
 
-- 🔭 I’m currently working: on Microsoft Dynamics 365, JavaScript and PHP
+- 🔭 My current work involves: Microsoft Dynamics 365, JavaScript, Python and PHP
 - 🌱 I’m currently learning: React.js, Next.js
 
 ### These are the Languages/Tools I know and currently work with:
